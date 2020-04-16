@@ -1,0 +1,3 @@
+C:/Users/Salmane/CLionProjects/Domination/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Salmane/CLionProjects/Domination/cmake-build-debug/CMakeFiles/Domination.dir
+C:/Users/Salmane/CLionProjects/Domination/cmake-build-debug/CMakeFiles/edit_cache.dir
