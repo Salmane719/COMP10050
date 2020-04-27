@@ -1,5 +1,5 @@
 //
-// Created by Draum on 07/04/2020.
+// Created by salmane on 07/04/2020.
 //
 
 #ifndef DOMINATION_TURN_H
