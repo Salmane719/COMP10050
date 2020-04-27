@@ -1,6 +1,4 @@
-//
-// Created by Draum on 07/04/2020.
-//
+
 
 #ifndef DOMINATION_SETBOARD_H
 #define DOMINATION_SETBOARD_H
