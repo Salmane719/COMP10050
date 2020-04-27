@@ -1,6 +1,3 @@
-//
-// Created by Draum on 07/04/2020.
-//
 
 #ifndef DOMINATION_LINKED_LIST_H
 #define DOMINATION_LINKED_LIST_H
